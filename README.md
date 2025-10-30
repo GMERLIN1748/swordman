@@ -13,7 +13,8 @@
 
 - การตาย (Death) 
 ### 2. Game 
-<img width="1470" height="956" alt="Game" src="https://github.com/user-attachments/assets/5ad1c7e3-bdb1-445e-a8c7-9d381981d44c" />
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/059593ff-33c5-4cf6-9a71-0aa0824ee780" />
+
 
 - เมื่นชนกับสิ่งกีดขวางเลือดจะลด
 - เมื่อ hp = 0 Game over 
